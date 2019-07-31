@@ -21,7 +21,7 @@ def draw_object():
         ball["x"] + ball["w"], ball["y"] + ball["w"],
         fill="red"
     )
-
+    
 #moveBall
 def move_ball():
     #aftermove
